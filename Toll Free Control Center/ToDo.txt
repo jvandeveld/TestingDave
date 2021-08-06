@@ -1,0 +1,67 @@
+ToDo:
+
+X Add an INI file to set location of database
+X  'integrate .ini code
+
+ComboBox API Calls
+
+X Fix date column sorting and add OOPProgress - sort grid
+
+
+Clean up forms
+X  Add Shadow
+X  Text box / label arrays  - bold labels
+  max length
+  Min/Max button
+  Standard OK/Cancel buttons
+X  tab order
+X  sel start / sel length
+X  input edits 
+X     date picker
+X     radio button
+X         Overminutes options (.10, .15, .20, other)
+
+     
+X Add DesignMode function
+
+X Add Splash Screen - Automatic download of latest version  (Form Usage)
+X Add About Box  (Form Usage - easy)
+
+Add Date control for editing last used dates
+
+Account number on assign screen should accept only numbers
+
+X Install Paint.net  
+
+
+X Filter Screen
+
+Clean up toolbar
+New toolbar functionality
+X  Export results to CSV file  (Rate Analysis - frmGrid.frm)
+  Reports
+
+X Add Phone Number functionality to filter dialogue  (CALL - 2255)
+
+Create icon
+ 
+Compile / Deploy
+
+XSmart UI Pop Up replacement for built in menu
+
+
+Built in Reports
+
+Error handling
+
+	Check length of data field before update
+        Set maxlength of textbox
+        Semaphore locking
+
+Add Clear Filter Button to Filter dialogue
+Add Clear Filter to toolbar filter drop down
+
+XReplace pop up menu on right click to smart pop up -> (FormUsage)
+_________________________________________________________________
+
+thinQ SMS delivery failure notification
