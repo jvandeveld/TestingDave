@@ -17,6 +17,14 @@ Begin VB.Form frmAbout
    ScaleWidth      =   5577.968
    ShowInTaskbar   =   0   'False
    StartUpPosition =   1  'CenterOwner
+   Begin VB.CommandButton Command1 
+      Caption         =   "Command1"
+      Height          =   555
+      Left            =   435
+      TabIndex        =   5
+      Top             =   1770
+      Width           =   1980
+   End
    Begin VB.PictureBox picIcon 
       AutoSize        =   -1  'True
       BorderStyle     =   0  'None
